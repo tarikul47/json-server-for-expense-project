@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "name": "Salary from Google",
+      "amount": "50000",
+      "type": "income",
+      "id": 1
+    },
+    {
+      "name": "Family Expenses",
+      "amount": "20000",
+      "type": "expense",
+      "id": 2
+    },
+    {
+      "name": "Premium ",
+      "type": "expense",
+      "amount": 20,
+      "id": 3
+    },
+    {
+      "name": "Premium ",
+      "type": "income",
+      "amount": 20480,
+      "id": 4
+    },
+    {
+      "name": "Premium ",
+      "type": "expense",
+      "amount": 20480,
+      "id": 5
+    },
+    {
+      "name": "Premium ",
+      "type": "expense",
+      "amount": 20480,
+      "id": 6
+    },
+    {
+      "name": "contact-us",
+      "type": "income",
+      "amount": 20480,
+      "id": 7
+    },
+    {
+      "name": "Tarikul Islam gg",
+      "amount": 20480,
+      "type": "expense",
+      "id": 8
+    }
+  ]
+}
